@@ -1,2 +1,2 @@
 # Game.kce
-Kce Number Logic Games
+Kce Number Logic Game
